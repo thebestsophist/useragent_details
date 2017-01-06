@@ -1,8 +1,8 @@
 # Useragent Details
 
-- Version: 1.2
-- Author: Phill Gray
-- Build Date: 2012-06-12
+- Version: 1.2.1
+- Author: Phill Gray, A Yellow Raven
+- Build Date: 2013-04-28
 - Requirements: Symphony 2.2, 2.3
 
 ## Installation
@@ -14,7 +14,7 @@
 
 Bundles a datasource that outputs the users browser, version, platform, platform version, if it's a mobile device, a robot or using chromeframe and IP address. Easy!
 
-There is a setting on the preferences page to include geolocationing based on the IP address using Geoplugin. This is disabled by default as some people don't want the page load delay associated with geolocationing. Enabling this adds a location node to the bundled datasource, as well as lat/long and country values into the param pool.
+There is a setting on the preferences page to include geolocationing based on the IP address using Geoplugin. It also adds sun data (from data_sun_info) to the param pool. This is disabled by default as some people don't want the page load delay associated with geolocationing. Enabling this adds a location node to the bundled datasource, as well as lat/long and country values into the param pool.
 
 ## Uses
 

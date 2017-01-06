@@ -12,8 +12,13 @@
 			<name github="pixelninja" symphony="touchstone">Phillip Gray</name>
 			<email>pixel.ninjad@gmail.com</email>
 		</author>
+		<author>
+			<name github="ayellowraven">A Yellow Raven</name>
+			<email>hello@ayellowraven.com</email>
+		</author>
 	</authors>
 	<releases>
+		<release version="1.2.1" date="2013-04-28" min="2.3"/>
 		<release version="1.2" date="2012-06-12" min="2.3" />
 		<release version="1.1.1" date="2012-01-19" min="2.2" />
 	</releases>
